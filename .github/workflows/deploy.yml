@@ -3,7 +3,7 @@ name: Deploy React App
 on:
   push:
     branches:
-      - master  # Change to "main" if your branch is named "main"
+      - master  # Change to "master" if your branch is named "master"
 
 permissions:
   contents: read
