@@ -1,2 +1,1 @@
-https://your-github-username.github.io/your-repo-name
-you can the deployed page here
+https://kapsalisvasilis.github.io/portfolio-demo/ you can the deployed page here
